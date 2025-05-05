@@ -1,0 +1,5 @@
+hello worl this the cizzy typing for testing node module.
+orange
+red
+blue
+yellow
